@@ -33,6 +33,14 @@ Me chamo Nahyan Marcos Silva Braz, tenho 17 anos e sou natural de Minas Gerais. 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img  
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPPgjG-v_nCajhUwAueSES5gB5DKSKrc6zvdq0W0L3bRWKHcBLcUkRLb2G&s=10" 
+/>
 <img 
     align="left" 
     alt="Bootstrap"
