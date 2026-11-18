@@ -2,7 +2,15 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Nahyan Marcos Silva Braz, tenho 17 anos e sou natural de Minas Gerais. Estou no ensino médio na E.E. Maria Carolina Campos, com formação do curso em informática e pacote office básico. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Proz Educação. Gosto muito da área de tecnologia e informática!
+Sobre mim
+
+Olá! Me chamo Nahyan Marcos Silva Braz, sou estudante e entusiasta da área de tecnologia e desenvolvimento de software.
+
+Atualmente, estou cursando o Ensino Médio na E.E. Maria Carolina Campos, com formação em Informática e conhecimentos básicos em Pacote Office. Também estou cursando Análise e Desenvolvimento de Sistemas pela Proz Educação.
+
+Tenho grande interesse pela área de tecnologia, especialmente pelo desenvolvimento de sistemas e programação. Atualmente, venho desenvolvendo projetos práticos e publicando-os no GitHub, buscando aprimorar meus conhecimentos, explorar novas ferramentas e colocar em prática o que aprendo durante meus estudos.
+
+Estou sempre em busca de novos aprendizados e oportunidades para evoluir profissionalmente na área de tecnologia.
 <p align="left">
 
 ---
