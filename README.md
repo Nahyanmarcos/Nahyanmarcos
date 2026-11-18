@@ -2,8 +2,6 @@
 
 **`Desenvolvedor FullStack`**
 
-Sobre mim
-
 Olá! Me chamo Nahyan Marcos Silva Braz, sou estudante e entusiasta da área de tecnologia e desenvolvimento de software.
 
 Atualmente, estou cursando o Ensino Médio na E.E. Maria Carolina Campos, com formação em Informática e conhecimentos básicos em Pacote Office. Também estou cursando Análise e Desenvolvimento de Sistemas pela Proz Educação.
